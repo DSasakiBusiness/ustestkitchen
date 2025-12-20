@@ -19,7 +19,7 @@ variable "service_name" {
 variable "github_owner" {
   description = "GitHub Repository Owner"
   type        = string
-  default     = "sasakidaisuke" # Assumed based on path, user can update
+  default     = "DSasakiBusiness" # Updated to match created repo
 }
 
 variable "github_repo" {
