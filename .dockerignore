@@ -1,0 +1,13 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+.env*.local
+.DS_Store
+cloudbuild.yaml
+task.md
+implementation_plan.md
+walkthrough.md
