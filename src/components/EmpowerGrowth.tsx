@@ -13,6 +13,15 @@ const icons = [
 const cards = [
   {
     number: "01",
+    title: "既製品\nテスト販売",
+    engTitle: "PRODUCT SALES",
+    description: "パートナー小売店やECサイトを通じて、加工食品や雑貨のテスト販売と市場調査を行います。",
+    plans: ["小売店棚貸し", "サンプリング", "EC販売代行"],
+    price: "Retail",
+    borderColor: "border-gray-900"
+  },
+  {
+    number: "02",
     title: "飲食店向け\nテストサービス",
     engTitle: "RESTAURANT TEST SERVICE",
     description: "既存のレストランを活用し、イートイン・デリバリーの両面で貴社のメニューを販売テストします。",
@@ -21,21 +30,12 @@ const cards = [
     borderColor: "border-gray-900"
   },
   {
-    number: "02",
+    number: "03",
     title: "店舗サブリース\nマッチング",
     engTitle: "STORE SUB-LEASE",
     description: "居抜き物件や既存店のアイドルタイムを活用し、低コストで迅速に独立した店舗運営を開始できます。",
     plans: ["短期ポップアップ", "長期サブリース", "ゴーストキッチン"],
     price: "Smart",
-    borderColor: "border-gray-900"
-  },
-  {
-    number: "03",
-    title: "既製品\nテスト販売",
-    engTitle: "PRODUCT SALES",
-    description: "パートナー小売店やECサイトを通じて、加工食品や雑貨のテスト販売と市場調査を行います。",
-    plans: ["小売店棚貸し", "サンプリング", "EC販売代行"],
-    price: "Retail",
     borderColor: "border-gray-900"
   }
 ];

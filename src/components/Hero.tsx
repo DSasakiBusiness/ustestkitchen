@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-import FoodBackground3D from './FoodBackground3D';
+
 
 export default function Hero() {
   return (
@@ -17,8 +17,8 @@ export default function Hero() {
          <div className="absolute inset-0 bg-black/10" />
       </div>
 
-      {/* 3D Animated Food Layer */}
-      <FoodBackground3D />
+
+
       
       <div className="container mx-auto px-6 relative z-10 flex flex-col items-start justify-center h-full pointer-events-none">
         <div className="max-w-3xl bg-white/95 backdrop-blur-sm p-8 md:p-12 shadow-2xl rounded-sm pointer-events-auto">

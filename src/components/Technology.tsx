@@ -54,10 +54,9 @@ export default function Technology() {
                      <Bot size={48} />
                 </div>
 
-                <h3 className="text-2xl font-bold mb-4 font-serif text-white">調理ロボット導入支援</h3>
+                <h3 className="text-2xl font-bold mb-4 font-serif text-white">AIによるオペレーション、<br/>マネージメント支援システム</h3>
                 <p className="text-gray-300 leading-relaxed font-light tracking-wide">
-                    人手不足解消と品質安定化のため、自動調理ロボットの導入をサポート。
-                    現地の労働コスト上昇に対応した、持続可能な<strong className="text-white font-bold border-b border-white/30">次世代店舗モデル</strong>を構築します。
+                    AIがデータを分析し、需要予測や人材育成・配置を最適化。複雑な数値を<strong className="text-white font-bold border-b border-white/30">「実行力」</strong>へと変換し、マネージメント業務を飛躍的に効率化します。
                 </p>
             </motion.div>
         </div>

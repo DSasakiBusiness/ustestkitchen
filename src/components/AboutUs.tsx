@@ -15,7 +15,7 @@ export default function AboutUs() {
                 dedicated to supporting Japanese businesses in their US market entry.
               </p>
               <p>
-                私たちはシアトルとロサンゼルスを拠点に、日本の飲食業・小売業の皆様が<br/>
+                私たちはシアトルを拠点に、日本の飲食業・小売業の皆様が<br/>
                 「低リスク」「低コスト」で米国市場に挑戦できる環境を提供しています。
               </p>
               <p>
