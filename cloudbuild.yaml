@@ -21,3 +21,6 @@ steps:
     - '--allow-unauthenticated'
 images:
   - 'gcr.io/$PROJECT_ID/ustestkitchen:$COMMIT_SHA'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
