@@ -11,7 +11,7 @@ export default function AboutUs() {
             <h2 className="text-3xl font-bold text-primary mb-6">About Us</h2>
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                <strong>US TEST KITCHEN</strong> is a service operated by <strong>09STATES</strong>, 
+                <strong>US TEST KITCHEN</strong> is a service operated by <strong><span className="font-['Avenir']">09STATES</span></strong>, 
                 dedicated to supporting Japanese businesses in their US market entry.
               </p>
               <p>

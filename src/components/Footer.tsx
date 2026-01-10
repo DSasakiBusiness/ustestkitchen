@@ -54,7 +54,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <p className="text-gray-400">Copyright © {new Date().getFullYear()} 09STATES - All Rights Reserved.</p>
+          <p className="text-gray-400">Copyright © {new Date().getFullYear()} <span className="font-['Avenir']">09STATES</span> - All Rights Reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
           </div>
         </div>

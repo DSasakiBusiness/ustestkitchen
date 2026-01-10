@@ -19,7 +19,7 @@ export default function Technology() {
             viewport={{ once: true }}
             className="text-3xl md:text-5xl font-bold mb-4 font-serif text-[#38BDF8]"
           >
-            09STATESテクノロジーの活用
+            <span className="font-['Avenir']">09STATES</span>テクノロジーの活用
           </motion.h2>
           <div className="w-20 h-1 bg-primary mx-auto rounded-full" />
         </div>
